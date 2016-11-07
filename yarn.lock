@@ -131,6 +131,13 @@ babel-plugin-syntax-trailing-function-commas@^6.8.0:
   version "6.13.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.13.0.tgz#2b84b7d53dd744f94ff1fad7669406274b23f541"
 
+babel-plugin-transform-bql:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-bql/-/babel-plugin-transform-bql-1.1.1.tgz#a72a3c9bec9e4e247b2fbbf1642b1377f75199c5"
+  dependencies:
+    babel-runtime "^6.3.19"
+    token-stream "0.0.1"
+
 babel-plugin-transform-class-properties@^6.10.2:
   version "6.18.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-class-properties/-/babel-plugin-transform-class-properties-6.18.0.tgz#bc1266a39d4c8726e0bd7b15c56235177e6ede57"
@@ -479,4 +486,8 @@ supports-color@^2.0.0:
 to-fast-properties@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-1.0.2.tgz#f3f5c0c3ba7299a7ef99427e44633257ade43320"
+
+token-stream@0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/token-stream/-/token-stream-0.0.1.tgz#ceeefc717a76c4316f126d0b9dbaa55d7e7df01a"
 
